@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Akmohith/singara-akash-s/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Akmohith/singara-akash-s/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Akmohith/singara-akash-s/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Akmohith/singara-akash-s/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Akmohith/singara-akash-s/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Akmohith/singara-akash-s/tree/master/0069-sqrtx) |
 ## Binary Search
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akmohith/singara-akash-s/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akmohith/singara-akash-s/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Akmohith/singara-akash-s/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Akmohith/singara-akash-s/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Akmohith/singara-akash-s/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Akmohith/singara-akash-s/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Akmohith/singara-akash-s/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
